@@ -1,5 +1,5 @@
 <#
-Currently, Windows has a limit of 15 overlay icons that can be loaded.DESCRIPTION
+Currently, Windows has a limit of 15 overlay icons that can be loaded.
 With the installation of One Drive, Windows prioritizes its own icons over DropBox's
 This has caused Dropbox Overlay icons to break and many Marketplace Users are complaining about this.
 This script finds all the DropBox Icon Overlay Identifier Registry Items and renames them with spaces in front so that
